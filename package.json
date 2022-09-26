@@ -21,7 +21,7 @@
     "@module-federation/node": "link:./dist/packages/node",
     "@module-federation/utilities": "link:./dist/packages/utilities",
     "@swc/helpers": "~0.3.3",
-    "core-js": "^3.6.5",
+    "core-js": "3.25.3",
     "fast-glob": "^3.2.12",
     "next": "12.2.5",
     "react": "18.2.0",
